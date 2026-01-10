@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello! I'm Enzo Magalhães</h1>
 
 <p align="center">
-🎓 Systems Analysis and Development Student • 🔎 Focused on QA, Software Testing & Full-Stack Development • 🚀 Seeking opportunities in Software Development and IT
+🎓 Systems Analysis and Development Student • 🔎 Focused on Full-Stack Development and QA • 🚀 Seeking opportunities in Software Development and IT
 </p>
 
 ---
@@ -16,10 +16,10 @@ I am committed to writing clean, maintainable code and contributing to high-qual
 
 ### 💼 Technologies & Tools
 
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 ![HTML 5](https://img.shields.io/badge/-HTML%205-333?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-333?style=flat&logo=css)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visual-studio-code)
