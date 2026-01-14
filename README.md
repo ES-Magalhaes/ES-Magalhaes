@@ -31,13 +31,13 @@ I am committed to writing clean, maintainable code and contributing to high-qual
 <div align="center">
 
 <!-- Stats -->
-![Enzo GitHub Stats](https://github-readme-stats.vercel.app/api?username=ES-Magalhaes&show_icons=true&theme=tokyonight&hide_border=true)
+![Enzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ES-Magalhaes)
 
 <!-- Top Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ES-Magalhaes&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ES-Magalhaes)
 
 <!-- Streak -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ES-Magalhaes)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ES-Magalhaes)
 
 </div>
 
