@@ -37,7 +37,7 @@ I am committed to writing clean, maintainable code and contributing to high-qual
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ES-Magalhaes&layout=compact&theme=tokyonight&hide_border=true)
 
 <!-- Streak -->
-![GitHub Streak](https://streak-stats.demolab.com?user=ES-Magalhaes&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ES-Magalhaes)](https://git.io/streak-stats)
 
 </div>
 
